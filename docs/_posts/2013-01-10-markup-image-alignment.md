@@ -42,7 +42,7 @@ And just when you thought we were done, we're going to do them all over again wi
 
 The figure above happens to be **centered**. The caption also has a link in it, just to see if it does anything funky.
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
   <figcaption>Itty-bitty caption.</figcaption>
 </figure> 
